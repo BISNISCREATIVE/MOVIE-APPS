@@ -10,6 +10,14 @@
 This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
 Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
+## What technologies are used for this project?
+This project is built with:
+Vite
+TypeScript
+React
+shadcn-ui
+Tailwind CSS
+
 ## Deployment
 
 Your project is live at:
