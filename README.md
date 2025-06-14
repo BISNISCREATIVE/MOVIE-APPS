@@ -1,4 +1,4 @@
-# Minimalist newsletter form
+# MOVIE APPS - AHADEMY CHALLENGE-9
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
